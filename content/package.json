@@ -21,7 +21,7 @@
     "@mdx-js/react": "^3.1.1",
     "@ui5/webcomponents-react": "^2.17.0",
     "@ui5/webcomponents": "^2.17.1",
-    "@ui5/webcomponents-fiori": "^2.17.1",
+    "@ui5/webcomponents-fiori": "^2.18.0",
     "@ui5/webcomponents-icons": "^2.17.1",
     "clsx": "^2.1.1",
     "prism-react-renderer": "^2.4.1",
