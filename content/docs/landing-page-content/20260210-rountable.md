@@ -20,7 +20,7 @@ The agenda of the February Edition of the SAP BTP Platform Automation Roundtable
    - Destinations in the Terraform Provider for SAP BTP
 - Q+A
 
-The slides of the presentation can be found on [GitHub](https://github.com/btp-automation-scenarios/btp-platform-automation-roundtable/tree/main/slides/2026-02-10-roundtable-1.pdf).
+The slides of the presentation can be found on [GitHub](https://github.com/btp-automation-scenarios/btp-platform-automation-roundtable/blob/main/slides/20260210/2026-02-10-Roundtable-Slides.pdf).
 
 ## 🎥 Recording
 
