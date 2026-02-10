@@ -13,6 +13,14 @@ On this page you find the list of all available sessions from our BTP Platform A
 
 If you have further questions or feedback that you couldn’t address during the session, we’d be very glad to receive them via a [GitHub issue](https://github.com/btp-automation-scenarios/btp-platform-automation-roundtable/issues).
 
+## Previous Sessions
+
+- [2026-02-10 Roundtable #1](./20260210-rountable.md)
+
+## Playlist of Recordings
+
+You find the playlist of all recordings of our BTP Platform Automation Roundtable Series on [YouTube](https://www.youtube.com/watch?v=NDuc-pQLCjI&list=PLmZLSvJAm8Fa93DQGmjnUrsAbC7_BGRsu)
+
 ## Become a Speaker
 
 We are always looking for new speakers and interesting topics around SAP BTP Platform Automation. If you are interested in becoming a speaker, please reach out to Christian Lechner via [LinkedIn](https://www.linkedin.com/in/christian-lechner-inthecloud/) or via [email](mailto:christian.lechner@sap.com)
