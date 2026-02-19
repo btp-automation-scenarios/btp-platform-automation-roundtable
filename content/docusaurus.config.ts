@@ -21,7 +21,12 @@ const config: Config = {
   deploymentBranch: 'gh-pages',
   trailingSlash: true,
   onBrokenLinks: 'log',
-  onBrokenMarkdownLinks: 'throw',
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+    },
+  },
 
   plugins: [
     './src/plugins/init-ui5-theme',
