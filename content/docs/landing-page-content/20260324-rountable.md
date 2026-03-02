@@ -1,4 +1,5 @@
 ---
+id: 20260324-roundtable
 sidebar_position: 3
 tags:
   - Webinar
@@ -7,9 +8,9 @@ tags:
   - Slides
 ---
 
-# 2026-03-xx Roundtable #2
+# 2026-03-24 Roundtable #2
 
-This edition of the SAP BTP Platform Automation Roundtable takes place on March xx, 2026.
+This edition of the SAP BTP Platform Automation Roundtable takes place on March 24, 2026.
 
 ## 📋 Agenda and Slides
 
