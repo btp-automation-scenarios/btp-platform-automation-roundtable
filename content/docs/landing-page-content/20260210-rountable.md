@@ -14,7 +14,7 @@ tags:
 
 The agenda of the February Edition of the SAP BTP Platform Automation Roundtable was:
 
-- What’s New in February (aka what ahppend in December 2025 and January 2026)
+- What’s New in February (aka what happened in December 2025 and January 2026)
 - Demos
    - btp CLI, Global Account favorites in btp CLI
    - Terraform Provider Defined Functions
