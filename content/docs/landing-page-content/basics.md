@@ -18,6 +18,10 @@ If you have further questions or feedback that you couldn’t address during the
 - [2026-02-10 Roundtable #1](./20260210-rountable.md)
 - [2026-03-24 Roundtable #2](./20260324-rountable.md)
 
+## Upcoming Session
+
+- [2026-05-12 Roundtable #3](./20260512-rountable.md)
+
 ## Playlist of Recordings
 
 You find the playlist of all recordings of our BTP Platform Automation Roundtable Series on [YouTube](https://www.youtube.com/watch?v=NDuc-pQLCjI&list=PLmZLSvJAm8Fa93DQGmjnUrsAbC7_BGRsu)
