@@ -27,8 +27,6 @@ The slides of the presentation can be found on [GitHub](https://github.com/btp-a
 
 ## 🎥 Recording
 
-A## 🎥 Recording
-
 The recording is available on YouTube:
 
 [2026-05-12 Roundtable #3](https://youtu.be/x2sLkdkluX8)
