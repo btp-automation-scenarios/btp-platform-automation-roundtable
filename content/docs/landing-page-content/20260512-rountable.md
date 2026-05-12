@@ -14,8 +14,31 @@ This edition of the SAP BTP Platform Automation Roundtable takes place on May 12
 
 ## 📋 Agenda and Slides
 
-Available after session.
+The agenda of the April Edition of the SAP BTP Platform Automation Roundtable was:
+
+- What’s New in April
+- Demos
+   - Terraform provider authentication via btp CLI
+   - Terraform service instance creation – new option
+   - Terraform Provider for Cloud Connector
+- Q+A
+
+The slides of the presentation can be found on [GitHub](https://github.com/btp-automation-scenarios/btp-platform-automation-roundtable/blob/main/slides/20260512/2026-05-12-Roundtable-Slides.pdf).
 
 ## 🎥 Recording
 
-Available after session.
+A## 🎥 Recording
+
+The recording is available on YouTube:
+
+[2026-05-12 Roundtable #3](https://youtu.be/x2sLkdkluX8)
+
+## Additional Resources
+
+### Documentation for btp CLI login for Terraform Provider authentication
+
+You find more information about the new authentication option in the Terraform Provider documentation: [Sign On via btp CLI Session (EXPERIMENTAL)](https://registry.terraform.io/providers/SAP/btp/latest/docs#sign-on-via-btp-cli-session-experimental)
+
+### Guide for moving from `serviceplan_id` to `serviceplan_name` and `service_offering_name` in Terraform Provider for SAP BTP
+
+You find more information about the move in the guides on Github: [Switch to Service Instance Configuration by Service offering and Service Plan Name](https://github.com/SAP/terraform-provider-btp/blob/main/guides/SERVICEINSTANCEBYNAME.md)
