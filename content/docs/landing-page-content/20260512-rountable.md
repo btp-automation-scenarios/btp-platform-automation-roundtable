@@ -37,6 +37,6 @@ The recording is available on YouTube:
 
 You find more information about the new authentication option in the Terraform Provider documentation: [Sign On via btp CLI Session (EXPERIMENTAL)](https://registry.terraform.io/providers/SAP/btp/latest/docs#sign-on-via-btp-cli-session-experimental)
 
-### Guide for moving from `serviceplan_id` to `serviceplan_name` and `service_offering_name` in Terraform Provider for SAP BTP
+### Guide moving to new service instance options
 
 You find more information about the move in the guides on Github: [Switch to Service Instance Configuration by Service offering and Service Plan Name](https://github.com/SAP/terraform-provider-btp/blob/main/guides/SERVICEINSTANCEBYNAME.md)
