@@ -21,7 +21,7 @@ If you have further questions or feedback that you couldn’t address during the
 
 ## Upcoming Session
 
-- [2026-06-xx Roundtable #4](./202606xx-rountable.md)
+- [2026-07-07 Roundtable #4](./20260707-rountable.md)
 
 ## Playlist of Recordings
 
