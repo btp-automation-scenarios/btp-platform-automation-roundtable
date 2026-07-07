@@ -10,14 +10,24 @@ tags:
 
 # 2026-07-07 Roundtable #4
 
-This edition of the SAP BTP Platform Automation Roundtable takes place on July 07, 2026.
-
-Registration is possible via: [Registration Page](https://events.teams.microsoft.com/event/e5f674cf-00f2-430c-b30d-51b9731ed7b5@42f7676c-f455-423c-82f6-dc2d99791af7)
+This edition of the SAP BTP Platform Automation Roundtable took place on July 07, 2026.
 
 ## 📋 Agenda and Slides
 
-Available after session.
+The agenda of the May/June Edition of the SAP BTP Platform Automation Roundtable was:
+
+- What’s New in May/June
+- Demos
+   - Sneak Peek of CLI and Terraform Integration into the SAP BTP Cockpit
+   - Good practices for importing Terraform resources
+- Follow Up on open question from roundtable 3
+- Call To Action: Interviews for Spec-Driven Development
+- Q+A
+
+The slides of the presentation can be found on [GitHub](https://github.com/btp-automation-scenarios/btp-platform-automation-roundtable/blob/main/slides/20260707/2026-07-07-Roundtable-Slides.pdf).
 
 ## 🎥 Recording
 
-Available after session.
+The recording is available on YouTube:
+
+[2026-07-07 Roundtable #4](https://youtu.be/K_049NqHoc0)

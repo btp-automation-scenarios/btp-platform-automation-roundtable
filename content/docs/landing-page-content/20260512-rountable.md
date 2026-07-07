@@ -10,7 +10,7 @@ tags:
 
 # 2026-05-12 Roundtable #3
 
-This edition of the SAP BTP Platform Automation Roundtable takes place on May 12, 2026.
+This edition of the SAP BTP Platform Automation Roundtable took place on May 12, 2026.
 
 ## 📋 Agenda and Slides
 
