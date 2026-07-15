@@ -18,10 +18,11 @@ If you have further questions or feedback that you couldn’t address during the
 - [2026-02-10 Roundtable #1](./20260210-rountable.md)
 - [2026-03-24 Roundtable #2](./20260324-rountable.md)
 - [2026-05-12 Roundtable #3](./20260512-rountable.md)
+- [2026-07-07 Roundtable #4](./20260707-rountable.md)
 
 ## Upcoming Session
 
-- [2026-07-07 Roundtable #4](./20260707-rountable.md)
+- [2026-09-xx Roundtable #5](./202609xx-rountable.md)
 
 ## Playlist of Recordings
 
